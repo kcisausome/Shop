@@ -1,0 +1,70 @@
+aShampoo added to Tom's cart
+Detergent added to Tom's cart
+View Tom's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Shampoo                      $8
+Detergent                   $10
+Toothpaste added to Tom's cart
+Book added to Sally's cart
+Laptop added to Sally's cart
+Printer added to Sally's cart
+View Sally's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Book                        $15
+Laptop                     $500
+Printer                     $60
+Headphones added to Harry's cart
+Ben doesn't have a shopping cart so nothing can be removed
+Dress added to Valerie's cart
+Jeans added to Sally's cart
+Cereal added to Jim's cart
+Milk added to Jim's cart
+Shoes added to Sally's cart
+Shirt added to Jim's cart
+View Jim's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Cereal                       $5
+Milk                         $4
+Shirt                       $30
+Jim checked out. Total = $39
+Video added to Ben's cart
+Guitar added to Ben's cart
+Sally already has Book
+Detergent added to Sally's cart
+View Sally's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Book                        $15
+Laptop                     $500
+Printer                     $60
+Jeans                       $50
+Shoes                       $70
+Detergent                   $10
+Sally checked out. Total = $705
+Vespa added to Tom's cart
+View Tom's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Shampoo                      $8
+Detergent                   $10
+Toothpaste                   $5
+Vespa                     $1100
+Tom checked out. Total = $1123
+Sofa added to Gloria's cart
+Jeans added to Gloria's cart
+Gloria checked out. Total = $950
+View Ben's shopping cart
+-------------------------------
+item                      price 
+-------------------------------
+Video                       $20
+Guitar                     $280
+Ben checked out. Total = $300
